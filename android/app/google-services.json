@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "791078192807",
+    "project_id": "boanproject-5dd90",
+    "storage_bucket": "boanproject-5dd90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791078192807:android:3c3cbdb8cd6fa39a7abd82",
+        "android_client_info": {
+          "package_name": "com.example.books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791078192807-dj9igcqqqlmnl0vnmltq8s6b9g8duiqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.books",
+            "certificate_hash": "5651c85db9eebc70b042b8222419495d68da76c7"
+          }
+        },
+        {
+          "client_id": "791078192807-l1tu3861k6ombduc7m5mede84qf0vd2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-KI0_tKfJ19URc4i8CUXXs9-sa5rUL6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791078192807-l1tu3861k6ombduc7m5mede84qf0vd2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
